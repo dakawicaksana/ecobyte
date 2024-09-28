@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.095e9899.css",
+    "main.js": "/static/js/main.b5d52ebe.js",
+    "static/media/comunity3.jpg": "/static/media/comunity3.3bbf3003186a99da8339.jpg",
+    "static/media/content4.png": "/static/media/content4.0b680e8cc4cea1fc15f4.png",
+    "static/media/content2.png": "/static/media/content2.009e56263f1902fb679c.png",
+    "static/media/content3.png": "/static/media/content3.2546571957d934b0f68d.png",
+    "static/media/comunity1.jpg": "/static/media/comunity1.84eb80aa319465c0416a.jpg",
+    "static/media/comunity4.jpeg": "/static/media/comunity4.23ffff90d49f261171ef.jpeg",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
+    "static/media/lecture-3986809_1280.jpg": "/static/media/lecture-3986809_1280.cd92b7649566a5b539bc.jpg",
+    "static/media/comunity2.jpg": "/static/media/comunity2.95fd70b5521718d06980.jpg",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/logo.png": "/static/media/logo.497224eb888aad8d0441.png",
+    "static/media/user.png": "/static/media/user.c920752422c11377083e.png",
+    "index.html": "/index.html",
+    "main.095e9899.css.map": "/static/css/main.095e9899.css.map",
+    "main.b5d52ebe.js.map": "/static/js/main.b5d52ebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095e9899.css",
+    "static/js/main.b5d52ebe.js"
+  ]
+}
